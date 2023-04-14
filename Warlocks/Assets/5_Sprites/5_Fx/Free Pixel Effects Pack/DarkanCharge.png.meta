@@ -1,0 +1,1763 @@
+fileFormatVersion: 2
+guid: dfb5b067cf4723f4fac6454428956fb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7756749121369199025
+    second: 2_magic8_spritesheet_0
+  - first:
+      213: 8093225376418583725
+    second: 2_magic8_spritesheet_1
+  - first:
+      213: 6484315199479948571
+    second: 2_magic8_spritesheet_2
+  - first:
+      213: -6033634135667900499
+    second: 2_magic8_spritesheet_3
+  - first:
+      213: 7127224577139441964
+    second: 2_magic8_spritesheet_4
+  - first:
+      213: 1732683183866336985
+    second: 2_magic8_spritesheet_5
+  - first:
+      213: -7192065733505880867
+    second: 2_magic8_spritesheet_6
+  - first:
+      213: 3398643107314347206
+    second: 2_magic8_spritesheet_7
+  - first:
+      213: 63111574706350166
+    second: 2_magic8_spritesheet_8
+  - first:
+      213: 1652652928626363963
+    second: 2_magic8_spritesheet_9
+  - first:
+      213: 909139852239243918
+    second: 2_magic8_spritesheet_10
+  - first:
+      213: -1317597518504154271
+    second: 2_magic8_spritesheet_11
+  - first:
+      213: -7572048200642639302
+    second: 2_magic8_spritesheet_12
+  - first:
+      213: -3888718190432319078
+    second: 2_magic8_spritesheet_13
+  - first:
+      213: 583560630155753068
+    second: 2_magic8_spritesheet_14
+  - first:
+      213: -6863371163346570917
+    second: 2_magic8_spritesheet_15
+  - first:
+      213: -652342661003407597
+    second: 2_magic8_spritesheet_16
+  - first:
+      213: 3510690661976500917
+    second: 2_magic8_spritesheet_17
+  - first:
+      213: -8086886924701316225
+    second: 2_magic8_spritesheet_18
+  - first:
+      213: -1094012671050583131
+    second: 2_magic8_spritesheet_19
+  - first:
+      213: -652906823206388119
+    second: 2_magic8_spritesheet_20
+  - first:
+      213: 2304604042711605168
+    second: 2_magic8_spritesheet_21
+  - first:
+      213: -8293414012034216234
+    second: 2_magic8_spritesheet_22
+  - first:
+      213: -1299937125750966251
+    second: 2_magic8_spritesheet_23
+  - first:
+      213: -5384989413449608496
+    second: 2_magic8_spritesheet_24
+  - first:
+      213: 1174208933533853617
+    second: 2_magic8_spritesheet_25
+  - first:
+      213: -4022367622991063306
+    second: 2_magic8_spritesheet_26
+  - first:
+      213: 2460328601902319232
+    second: 2_magic8_spritesheet_27
+  - first:
+      213: -970429606652382196
+    second: 2_magic8_spritesheet_28
+  - first:
+      213: 4399085162906485846
+    second: 2_magic8_spritesheet_29
+  - first:
+      213: -8042196495309172985
+    second: 2_magic8_spritesheet_30
+  - first:
+      213: 7252493579531152475
+    second: 2_magic8_spritesheet_31
+  - first:
+      213: -7986920048777753071
+    second: 2_magic8_spritesheet_32
+  - first:
+      213: 7250265532062110214
+    second: 2_magic8_spritesheet_33
+  - first:
+      213: 2147253161646321472
+    second: 2_magic8_spritesheet_34
+  - first:
+      213: 7055765672933947460
+    second: 2_magic8_spritesheet_35
+  - first:
+      213: 7655471589555569406
+    second: 2_magic8_spritesheet_36
+  - first:
+      213: -1225053332423412618
+    second: 2_magic8_spritesheet_37
+  - first:
+      213: 198363535338448874
+    second: 2_magic8_spritesheet_38
+  - first:
+      213: -3879107989363640433
+    second: 2_magic8_spritesheet_39
+  - first:
+      213: 2787794310460029086
+    second: 2_magic8_spritesheet_40
+  - first:
+      213: -9121061680007775270
+    second: 2_magic8_spritesheet_41
+  - first:
+      213: 5554894419043107588
+    second: 2_magic8_spritesheet_42
+  - first:
+      213: 6567572749506123181
+    second: 2_magic8_spritesheet_43
+  - first:
+      213: 5233200701433954535
+    second: 2_magic8_spritesheet_44
+  - first:
+      213: 2510483016992629209
+    second: 2_magic8_spritesheet_45
+  - first:
+      213: 7196988418050935790
+    second: 2_magic8_spritesheet_46
+  - first:
+      213: 9198247879270094221
+    second: 2_magic8_spritesheet_47
+  - first:
+      213: -1722799528228249410
+    second: 2_magic8_spritesheet_48
+  - first:
+      213: -7324067210416754656
+    second: 2_magic8_spritesheet_49
+  - first:
+      213: -1011477320962816032
+    second: 2_magic8_spritesheet_50
+  - first:
+      213: 2901751599144998785
+    second: 2_magic8_spritesheet_51
+  - first:
+      213: 6195950912891471704
+    second: 2_magic8_spritesheet_52
+  - first:
+      213: -2412158877706258370
+    second: 2_magic8_spritesheet_53
+  - first:
+      213: -8754408631893659005
+    second: 2_magic8_spritesheet_54
+  - first:
+      213: 100981036348764581
+    second: 2_magic8_spritesheet_55
+  - first:
+      213: 2094186160312948858
+    second: 2_magic8_spritesheet_56
+  - first:
+      213: 5520715115617683402
+    second: 2_magic8_spritesheet_57
+  - first:
+      213: -2113156236335305584
+    second: 2_magic8_spritesheet_58
+  - first:
+      213: 3108433194156987283
+    second: 2_magic8_spritesheet_59
+  - first:
+      213: 3552989856317351244
+    second: 2_magic8_spritesheet_60
+  - first:
+      213: 385015717372725890
+    second: DarkanCharge_0
+  - first:
+      213: -7001560985583062610
+    second: DarkanCharge_1
+  - first:
+      213: -510107267570813341
+    second: DarkanCharge_2
+  - first:
+      213: 2529261596551865942
+    second: DarkanCharge_3
+  - first:
+      213: 1361229498828260949
+    second: DarkanCharge_4
+  - first:
+      213: 485192932943330705
+    second: DarkanCharge_5
+  - first:
+      213: -1606605787198703849
+    second: DarkanCharge_6
+  - first:
+      213: 5089732577105389910
+    second: DarkanCharge_7
+  - first:
+      213: -7882792816330134700
+    second: DarkanCharge_8
+  - first:
+      213: -7712630024849633051
+    second: DarkanCharge_9
+  - first:
+      213: -7441464301511714803
+    second: DarkanCharge_10
+  - first:
+      213: 4639164240526655495
+    second: DarkanCharge_11
+  - first:
+      213: -7223565597609721185
+    second: DarkanCharge_12
+  - first:
+      213: 5017565735280795429
+    second: DarkanCharge_13
+  - first:
+      213: 1134652370578466715
+    second: DarkanCharge_14
+  - first:
+      213: -7650281933461789700
+    second: DarkanCharge_15
+  - first:
+      213: -4391174048544575165
+    second: DarkanCharge_16
+  - first:
+      213: -5200848706805879212
+    second: DarkanCharge_17
+  - first:
+      213: -6736583642165522246
+    second: DarkanCharge_18
+  - first:
+      213: -2073375179670944953
+    second: DarkanCharge_19
+  - first:
+      213: 7784459544068605427
+    second: DarkanCharge_20
+  - first:
+      213: 7135859148470701663
+    second: DarkanCharge_21
+  - first:
+      213: 7065688173972825748
+    second: DarkanCharge_22
+  - first:
+      213: 5677317509168024697
+    second: DarkanCharge_23
+  - first:
+      213: -7816814630812029909
+    second: DarkanCharge_24
+  - first:
+      213: 361068020909698268
+    second: DarkanCharge_25
+  - first:
+      213: -1536576850552729107
+    second: DarkanCharge_26
+  - first:
+      213: -1632013185112905630
+    second: DarkanCharge_27
+  - first:
+      213: -168689550155247763
+    second: DarkanCharge_28
+  - first:
+      213: 592642807321917091
+    second: DarkanCharge_29
+  - first:
+      213: 8763168506356680875
+    second: DarkanCharge_30
+  - first:
+      213: -8763196549929979562
+    second: DarkanCharge_31
+  - first:
+      213: 5738821489904278165
+    second: DarkanCharge_32
+  - first:
+      213: 2964198258175958529
+    second: DarkanCharge_33
+  - first:
+      213: 9163886770498863920
+    second: DarkanCharge_34
+  - first:
+      213: 1588142633749177881
+    second: DarkanCharge_35
+  - first:
+      213: 2942100573231216808
+    second: DarkanCharge_36
+  - first:
+      213: 1323155841501207521
+    second: DarkanCharge_37
+  - first:
+      213: -791553470042175419
+    second: DarkanCharge_38
+  - first:
+      213: -6932223319719275372
+    second: DarkanCharge_39
+  - first:
+      213: -9056750957354199894
+    second: DarkanCharge_40
+  - first:
+      213: 4811358889640457537
+    second: DarkanCharge_41
+  - first:
+      213: 5136708739958357183
+    second: DarkanCharge_42
+  - first:
+      213: 7834804651387502869
+    second: DarkanCharge_43
+  - first:
+      213: 8014145505528554698
+    second: DarkanCharge_44
+  - first:
+      213: 4367496411406300074
+    second: DarkanCharge_45
+  - first:
+      213: 7947503597319076837
+    second: DarkanCharge_46
+  - first:
+      213: -3718313642298381467
+    second: DarkanCharge_47
+  - first:
+      213: -1846117070826924695
+    second: DarkanCharge_48
+  - first:
+      213: -5095120971637993946
+    second: DarkanCharge_49
+  - first:
+      213: -7595463481833112762
+    second: DarkanCharge_50
+  - first:
+      213: -755626712454747660
+    second: DarkanCharge_51
+  - first:
+      213: -2677202521716016874
+    second: DarkanCharge_52
+  - first:
+      213: -6748676279836385380
+    second: DarkanCharge_53
+  - first:
+      213: 2159250949902476786
+    second: DarkanCharge_54
+  - first:
+      213: 2990360232196727643
+    second: DarkanCharge_55
+  - first:
+      213: -6290392451959249699
+    second: DarkanCharge_56
+  - first:
+      213: -3401483013705519336
+    second: DarkanCharge_57
+  - first:
+      213: 6864611286874714480
+    second: DarkanCharge_58
+  - first:
+      213: -2140400916640664827
+    second: DarkanCharge_59
+  - first:
+      213: 5960604496171137112
+    second: DarkanCharge_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkanCharge_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 718
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a81fa41c9d75500800000000000000
+      internalID: 385015717372725890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 718
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea17615216575de90800000000000000
+      internalID: -7001560985583062610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 718
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366b81f842cbbe8f0800000000000000
+      internalID: -510107267570813341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_3
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 718
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656e28e750eb91320800000000000000
+      internalID: 2529261596551865942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 718
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556017f540f04e210800000000000000
+      internalID: 1361229498828260949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_5
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 718
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dfd9fd660cbb600800000000000000
+      internalID: 485192932943330705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_6
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 718
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7173fe77c8034b9e0800000000000000
+      internalID: -1606605787198703849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_7
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 718
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659a914ffcc52a640800000000000000
+      internalID: 5089732577105389910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 618
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b24a8c2b1ba9290800000000000000
+      internalID: -7882792816330134700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 618
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e053dc0bdb37f490800000000000000
+      internalID: -7712630024849633051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 618
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08d4a3f4ab9ab890800000000000000
+      internalID: -7441464301511714803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 618
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70049432c4f916040800000000000000
+      internalID: 4639164240526655495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 618
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f928dbe6c5db0cb90800000000000000
+      internalID: -7223565597609721185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_13
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 618
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f5598b379f1a540800000000000000
+      internalID: 5017565735280795429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_14
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 618
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9762e3c1581fbf00800000000000000
+      internalID: 1134652370578466715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_15
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 618
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3eb6c4d1db4d590800000000000000
+      internalID: -7650281933461789700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 518
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3413691e77a6f03c0800000000000000
+      internalID: -4391174048544575165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 518
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e294c08afd2d7b0800000000000000
+      internalID: -5200848706805879212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 518
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab054019ed8d282a0800000000000000
+      internalID: -6736583642165522246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 518
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7430a916244e933e0800000000000000
+      internalID: -2073375179670944953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_20
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 518
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5cb9426b4f70c60800000000000000
+      internalID: 7784459544068605427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_21
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 518
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e41df861aa70360800000000000000
+      internalID: 7135859148470701663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_22
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 518
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496245765fd5e0260800000000000000
+      internalID: 7065688173972825748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_23
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 518
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cc013e132e9ce40800000000000000
+      internalID: 5677317509168024697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 418
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c6f5f2288158390800000000000000
+      internalID: -7816814630812029909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 418
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc6316b375c20500800000000000000
+      internalID: 361068020909698268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 418
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de157bcde7bfcaae0800000000000000
+      internalID: -1536576850552729107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 418
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2686798a7ace959e0800000000000000
+      internalID: -1632013185112905630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_28
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 418
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f0da57fb1b8adf0800000000000000
+      internalID: -168689550155247763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_29
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 418
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6fc194e7d793800800000000000000
+      internalID: 592642807321917091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_30
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 418
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8c748c3570d9970800000000000000
+      internalID: 8763168506356680875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_31
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 418
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651be70da2fd26680800000000000000
+      internalID: -8763196549929979562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 318
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a5f1f4db364af40800000000000000
+      internalID: 5738821489904278165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 318
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ed86e5c92f22920800000000000000
+      internalID: 2964198258175958529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 318
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0338c75277aac2f70800000000000000
+      internalID: 9163886770498863920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_35
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 318
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916e541af473a0610800000000000000
+      internalID: 1588142633749177881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 318
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a87be822e074d820800000000000000
+      internalID: 2942100573231216808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_37
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 318
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb992b3a3bcc5210800000000000000
+      internalID: 1323155841501207521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_38
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 318
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54888651056d305f0800000000000000
+      internalID: -791553470042175419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_39
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 318
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49414748e9bcbcf90800000000000000
+      internalID: -6932223319719275372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 218
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa459bf2df4ff4280800000000000000
+      internalID: -9056750957354199894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 218
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145ffef1b6165c240800000000000000
+      internalID: 4811358889640457537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_42
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 218
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcbcdf2261494740800000000000000
+      internalID: 5136708739958357183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_43
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 218
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511c782e151dabc60800000000000000
+      internalID: 7834804651387502869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_44
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 218
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4a25360e6f73f60800000000000000
+      internalID: 8014145505528554698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_45
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 218
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa37aaf98d67c9c30800000000000000
+      internalID: 4367496411406300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_46
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 218
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebb7510a643b4e60800000000000000
+      internalID: 7947503597319076837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_47
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 218
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56be05b5175e56cc0800000000000000
+      internalID: -3718313642298381467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 118
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96593932e464166e0800000000000000
+      internalID: -1846117070826924695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_49
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 118
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ecfdda87e7a49b0800000000000000
+      internalID: -5095120971637993946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_50
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 118
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bb2eca43e779690800000000000000
+      internalID: -7595463481833112762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_51
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 118
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9a65d22897385f0800000000000000
+      internalID: -755626712454747660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_52
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 118
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619365dad7aa8dad0800000000000000
+      internalID: -2677202521716016874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_53
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 118
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f5f34fda2e752a0800000000000000
+      internalID: -6748676279836385380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_54
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 118
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5acd97c4337fd10800000000000000
+      internalID: 2159250949902476786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_55
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 118
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b536a8e99c4ef7920800000000000000
+      internalID: 2990360232196727643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4ab23946904b8a0800000000000000
+      internalID: -6290392451959249699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_57
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 18
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fae8a88318bc0d0800000000000000
+      internalID: -3401483013705519336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_58
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 18
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071fd4b589ff34f50800000000000000
+      internalID: 6864611286874714480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_59
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 19
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50376b6e4b4cb42e0800000000000000
+      internalID: -2140400916640664827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkanCharge_60
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 19
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85870e8653258b250800000000000000
+      internalID: 5960604496171137112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
